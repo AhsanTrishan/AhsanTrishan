@@ -5,13 +5,13 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 I’m currently learning **JavaScript, Web Development, and more...**  
-- 📫 Reach me at: **ahsananjum1247@gmail.com**
+## About Me
+- I’m currently learning **Java, Database Management, and more...**  
+- Reach me at: **ahsananjum1247@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahsan-trishan-85988236a/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhsanTrishan&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanTrishan&layout=compact&theme=tokyonight" height="160"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 <p align="center">
   <img src="https://i.pinimg.com/originals/68/16/ca/6816ca770c5b1973311150023159d455.gif" width="300" alt="fun gif"/><br/>
   <i>"Too stressed thinking of how to increase productivity that I can't even start working on productivity 🤯"</i>
