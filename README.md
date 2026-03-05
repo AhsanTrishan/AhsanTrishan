@@ -55,13 +55,17 @@
 </p>
 
 ---
+## Codeforces Stats
+
+<p align="center">
+  <img src="https://codeforces-stats-cards.vercel.app/api/card?username=wolvie&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://codeforces-stats-cards.vercel.app/api/graph?username=wolvie&theme=dark" />
+</p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <a href="https://codeforces.com/profile/wolvie">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=wolvie"/>
-  </a>
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AhsanTrishan&show_icons=true&theme=shadow_red&count_private=true"/>
