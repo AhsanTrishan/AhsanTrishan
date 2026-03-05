@@ -57,6 +57,11 @@
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <a href="https://codeforces.com/profile/WOLV1E">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=WOLV1E"/>
+  </a>
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AhsanTrishan&show_icons=true&theme=shadow_red&count_private=true"/>
