@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/WOLV1E">
+<a href="https://codeforces.com/profile/wolvie">
 <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
@@ -58,8 +58,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://codeforces.com/profile/WOLV1E">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=WOLV1E"/>
+  <a href="https://codeforces.com/profile/wolvie">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=wolvie"/>
   </a>
 </p>
 
