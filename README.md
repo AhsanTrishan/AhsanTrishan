@@ -3,29 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Ahsan+Anjum+Trishan;Competitive+Programmer;Problem+Solver;Always+Learning">
-</p>
-
----
-
-# 👋 Ahsan Anjum Trishan
-
-### Competitive Programmer | Problem Solver
-
----
-
-## 🚀 About Me
-
-* Competitive programming enthusiast
-* Focused on C++, Java, DBMS, Algorithms
-* Practicing regularly and improving every day
-* 📧 Email: [ahsananjum1247@gmail.com](mailto:ahsananjum1247@gmail.com)
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
 
 <a href="https://www.linkedin.com/in/ahsan-trishan-85988236a/">
 <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -54,45 +31,8 @@
 
 </p>
 
----
-## Codeforces Stats
-
-<p align="center">
-  <img src="https://codeforces-stats-cards.vercel.app/api/card?username=wolvie&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://codeforces-stats-cards.vercel.app/api/graph?username=wolvie&theme=dark" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AhsanTrishan&show_icons=true&theme=shadow_red&count_private=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=AhsanTrishan&theme=shadow_red"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhsanTrishan&layout=compact&theme=shadow_red"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhsanTrishan&theme=redical"/>
-</p>
-
----
-
-## 💡 Fun Fact
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/68/16/ca/6816ca770c5b1973311150023159d455.gif" width="280"/>
 <br>
-<i>"I overthink productivity so much that I forget to actually be productive."</i>
 </p>
