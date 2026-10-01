@@ -28,9 +28,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
 
 </p>
 
+---
+
+## 📊 Language Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanTrishan&layout=compact&langs_count=10&hide_progress=false&theme=radical" />
+</p>
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/68/16/ca/6816ca770c5b1973311150023159d455.gif" width="280"/>
